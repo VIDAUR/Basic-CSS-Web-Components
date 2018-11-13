@@ -1,0 +1,35 @@
+body {
+    background-color:#FBF9F1;
+} 
+
+h1{
+    font-family: Georgia, Palatino, serif;
+    font-size: 25px;
+    margin-right: 450px;
+    margin-left: 450px;
+}
+
+h2{
+    font-family: Georgia, Palatino, serif;
+    font-size: 40px;
+    margin-right: 450px;
+    margin-left: 450px;
+}
+
+p{
+    font-family: Georgia, Palatino, serif;
+    font-size: 20px;
+    line-height: 1.25;
+    margin-right: 450px;
+    margin-left: 450px;
+}
+
+.enlace{
+    font-size: 20px;
+    color: #77A8D2;
+}
+
+.titulo{
+  background-color:#000000;
+  color: white;
+}

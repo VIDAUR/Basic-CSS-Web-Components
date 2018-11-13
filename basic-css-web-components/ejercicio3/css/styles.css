@@ -1,0 +1,40 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    font-weight: lighter;
+    margin-left: 40px;
+}
+
+h5{
+    font-weight: lighter;
+    margin-left: 40px;
+}
+.div-1{
+  margin-left: 40px;
+  display: inline-block;
+  }
+
+.div-2{
+  display: inline-block;
+  }
+
+.div-3{  
+  display: inline-block;
+  }
+
+.div-4{
+  display: inline-block;
+  }
+
+.div-5{
+  display: inline-block;
+  }
+
+
